@@ -13,4 +13,4 @@ CC-BY-SA: haz lo que quieras, pero dame créditos y utiliza la misma licencia pe
 CC0: no es mio ni es de nadie, es de todos (dominio público).
 ```
 
-*Si quieres subir algunos fondos, contáctanos.*
+*Si quieres subir algunos fondos, contáctanos a monojo.lynds@gmail.com*
